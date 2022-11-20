@@ -1,0 +1,32 @@
+
+nav{
+width: 100%;
+overflow: hidden;
+position: absolute;
+height: 55px;
+
+left:0;
+top:0;
+right:0;
+}
+li{
+  list-style-type: none;
+  display: inline;
+}
+ul li a{
+text-decoration: none;
+  margin: 10px;
+  color:black;
+}
+.EKLA{
+  text-shadow: 1px 0.5px red;
+  color:rgb(23, 15, 15);
+  font-size: medium;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow',  sans-serif
+}
+#cm{
+  margin-right: 25px;
+  background-color: #A020F0 ;
+  padding:15px 5px;
+  color:white;
+}

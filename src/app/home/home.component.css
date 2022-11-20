@@ -1,0 +1,38 @@
+#rcorners3 {
+    border-radius: 175px 165px 155px 10px;
+    background: #73AD21;
+    padding: 20px; 
+    width: 190px;
+    height: 230px; 
+    background-image: linear-gradient(to right, #A020F0 , #e460db );
+    float:left;
+    left:100px;
+    top: 10px;
+    position:relative;
+  } 
+  #home{
+    padding: 200px 170px 0 0;
+}  
+  #text{
+    float:right;
+    position: relative;
+   top:10px;
+   right:58px;
+}
+button{
+    background-color: #20caf0;
+    border:none;
+    padding:8px;
+    color:white;
+}
+p,h1,h2,h3,h4{
+margin:0;
+}
+.heading2{
+    padding:5px 0;
+}
+img{
+    position: absolute;
+    left:85px;
+    bottom:168px;
+}

@@ -1,0 +1,30 @@
+div{
+    padding:150px 60px ;
+}
+
+#about{
+    color: #A020F0 ;    
+}
+section{
+    display: inline;
+   
+}
+
+p{
+    font-size: larger;
+}
+#main{
+    background-color: #b7a0c5;
+}
+#content{
+    margin-left: 12px;
+    
+}
+.h3{
+    background-color:#A020F0 ;
+    padding:4px 15px 4px 4px ;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.span{
+    float: right;
+}
